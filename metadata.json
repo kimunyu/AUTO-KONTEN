@@ -1,0 +1,6 @@
+{
+  "name": "FrameCut Studio — AI Short-Form Video Editor",
+  "description": "Modular 9:16 vertical AI short-form video editor with Gemini AI clip/caption/B-roll extraction, multi-track timeline, real-time canvas preview, and pluggable external module adapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
